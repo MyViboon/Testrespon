@@ -328,11 +328,16 @@ footer{
 /* ############################################################################### */
 
 @media only screen and (max-width: 768px) {
+    .hamberger{
+        display: inline-block;
+        margin: 1rem;
+    }
     
     header{
         height: auto;
     }
     .nav-grid {
+        height: 0;
         text-align: center;
         grid-template-columns: 1fr;
     }
