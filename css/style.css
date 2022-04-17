@@ -464,7 +464,7 @@ footer{
         
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 320px) {
     .hamberger{
         display: inline-block;
         margin: 1rem;
